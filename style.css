@@ -30,15 +30,15 @@ body {
 }
 .quiz h2 {
     font-size: 18px;
-    color: #001e4d;
+    color: black;
     font-weight: 600;
 }
 .btn {
     background: #fff;
-    color: #222;
+    color: #333;
     font-weight: 500;
     width: 100%;
-    border: 1px solid #222;
+    border: 1px solid #333;
     padding: 10px;
     margin: 10px 0;
     text-align: left;
