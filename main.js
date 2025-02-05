@@ -106,6 +106,7 @@ function startQuiz() {
     trues = 0;
     score = 0;
     nextButton.innerHTML = "Next";
+    questionScore.innerHTML = "";
     showQuestion();
 };
 
